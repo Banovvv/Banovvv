@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banovvv&label=Profile%20views&color=0e75b6&style=flat" alt="banovvv" /> </p>
 
-- 🌱 I’m currently learning **C#, HTML, CSS, JavaScript and SQL**
+- 🌱 I’m currently expanding my knowledge about **C#, HTML, CSS, JavaScript and SQL**
 
 - ⚡ Fun fact **Running is another passion of mine**
 
