@@ -25,6 +25,11 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Libraries:</h3>
+<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="csharp" width="80" height="40"/> </a>
+<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="csharp" width="40" height="40"/> </a>
+<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="csharp" width="40" height="40"/> </a>
+
 <h3 align="left">Stats:</h3>
 
 [![Banovvv's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Banovvv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
