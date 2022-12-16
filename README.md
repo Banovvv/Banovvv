@@ -27,8 +27,8 @@
 
 <h3 align="left">Libraries:</h3>
 <a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="csharp" width="80" height="40"/> </a>
-<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="csharp" width="40" height="40"/> </a>
-<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="csharp" width="40" height="40"/> </a>
+<a href="https://github.com/moq" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="csharp" width="40" height="40"/> </a>
+<a href="https://autofixture.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="csharp" width="40" height="40"/> </a>
 
 <h3 align="left">Stats:</h3>
 
