@@ -28,9 +28,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Libraries:</h3>
-<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="csharp" width="80" height="40"/> </a>
-<a href="https://github.com/moq" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="csharp" width="40" height="40"/> </a>
-<a href="https://autofixture.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="csharp" width="40" height="40"/> </a>
+<a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="fluentassertions" width="80" height="40"/> </a>
+<a href="https://github.com/moq" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="moq" width="40" height="40"/> </a>
+<a href="https://autofixture.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="autofixture" width="40" height="40"/> </a>
 
 <h3 align="left">Things I'm planning to learn:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
