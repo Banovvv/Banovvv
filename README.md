@@ -29,6 +29,8 @@
 
 <h3 align="left">Libraries:</h3>
 <a href="https://fluentassertions.com/" target="_blank" rel="noreferrer"> <img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="fluentassertions" width="80" height="40"/> </a>
+<a href="https://nsubstitute.github.io/" target="_blank" rel="noreferrer"> <img src="https://nsubstitute.github.io/images/nsubstitute-100x100.png" alt="nsubstitute" width="40" height="40"/> </a>
+<a href="https://github.com/WireMock-Net/WireMock.Net" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/29479316?s=48&v=4" alt="wiremocknet" width="40" height="40"/> </a>
 <a href="https://github.com/moq" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1434934?s=200&v=4" alt="moq" width="40" height="40"/> </a>
 <a href="https://autofixture.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/AutoFixture/avatar?imageSize=512" alt="autofixture" width="40" height="40"/> </a>
 
