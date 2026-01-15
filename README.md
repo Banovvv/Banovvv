@@ -35,13 +35,3 @@
     <img src="https://skillicons.dev/icons?i=react,ts&perline=8" />
   </a>
 </p>
-
-<h3 align="left">Stats:</h3>
-
-[![Banovvv's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Banovvv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Banovvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banovvv&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Banovvv's Thropies](https://github-profile-trophy.vercel.app/?username=banovvv&theme=tokyonight&no-frame=true&column=3&margin-w=25&margin-h=15")
-
-[![Banovvv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banovvv&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
