@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banovvv&label=Profile%20views&color=0e75b6&style=flat" alt="banovvv" /> </p>
 
 - 💼 **Current Work**: Sole architect and developer of a high-stakes business management platform
-- 🛠️ **Tech Stack**: .NET 9, React, TypeScript, PostgreSQL, Azure (Service Bus, WebJobs, Azure Functions and many more), Hangfire, Microsoft Graph
+- 🛠️ **Tech Stack**: .NET 9, React, TypeScript, PostgreSQL, Azure (Service Bus, WebJobs, Azure Functions, and many more), Hangfire, Microsoft Graph
 - ✍️ **Technical Writing**: Publishing .NET development articles at Code Maze and on my personal blog
 - 🎓 **Course Creator**: "Minimal APIs in ASP.NET Core" - helping developers build modern APIs
 - 🧪 **Testing Advocate**: NSubstitute, Fluent Assertions, Bogus, MOQ, AutoFixture
-- 🏃 **Marathon Runner**: Daily training keeps me energized and focused
+- 🏃 **Runner**: Daily training keeps me energized and focused
 - 🌱 **Currently Learning**: Advanced architectural patterns, system design at scale
 
 <h3 align="left">Connect with me:</h3>
